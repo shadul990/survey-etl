@@ -1,0 +1,9 @@
+id,location,value,inspector,date,status
+1,A,10,Ajay,2023-01-01,ok
+2,B,12,Bala,2023-01-02,ok
+3,A,11,Chand,2023-01-03,ok
+4,C,9,Deepa,2023-01-04,check
+6,A,13,Faisal,2023-01-06,ok
+7,D,8,Gita,2023-01-07,ok
+8,B,14,Harish,2023-01-08,ok
+10,A,15,Jaidev,2023-01-10,ok
